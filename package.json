@@ -1,0 +1,16 @@
+{
+  "name": "pandoc-katex",
+  "version": "0.1.0",
+  "description": "Filter to prerender KaTeX",
+  "main": "pandoc-katex.js",
+  "dependencies": {
+    "katex": "^0.10.1",
+    "pandoc-filter-promisified": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Hanson",
+  "license": "MIT"
+}
